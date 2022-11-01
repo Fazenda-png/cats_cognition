@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage7>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-8.7337678670883179e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 684681 -8.6953192949295044e-02</internalNodes>
+      <leafValues>
+        7.3459714651107788e-01 -9.3378610908985138e-02</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 240579 3.1019631773233414e-02</internalNodes>
+      <leafValues>
+        -1.6579069197177887e-01 7.3785412311553955e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 963875 3.6962196230888367e-02</internalNodes>
+      <leafValues>
+        -1.8801540136337280e-01 6.0309070348739624e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 2009931 1.7362870858050883e-04</internalNodes>
+      <leafValues>
+        2.0319101214408875e-01 -5.7550787925720215e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 2541218 1.0459845361765474e-04</internalNodes>
+      <leafValues>
+        1.0444207489490509e-01 -7.6325500011444092e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1830027 -3.6857547238469124e-03</internalNodes>
+      <leafValues>
+        -9.3600839376449585e-01 1.0286281257867813e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 2877798 -1.8458848353475332e-03</internalNodes>
+      <leafValues>
+        1.4446018636226654e-01 -8.0201822519302368e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 2913149 -7.7069905819371343e-04</internalNodes>
+      <leafValues>
+        -8.0844116210937500e-01 9.4995804131031036e-02</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1042924 9.1028260067105293e-04</internalNodes>
+      <leafValues>
+        -3.6705410480499268e-01 2.9427701234817505e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1665018 -5.0910110585391521e-03</internalNodes>
+      <leafValues>
+        -7.6262515783309937e-01 1.5860721468925476e-01</leafValues></_></weakClassifiers></stage7>
+</opencv_storage>
